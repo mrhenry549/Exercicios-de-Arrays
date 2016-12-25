@@ -9,7 +9,7 @@ public class Main4 {
     
     public Main4(){
         
-        arrayNumeros = new ArrayList<Integer>();
+        arrayNumeros = new ArrayList<>();
         
         arrayNumeros.add(3);
         arrayNumeros.add(5);
